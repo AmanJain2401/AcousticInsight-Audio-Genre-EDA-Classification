@@ -63,7 +63,7 @@ AcousticInsight/
 
 - Clone the Repository  
 ```bash 
-git clone https://github.com/your-username/audio-classification-project.git
+git clone https://github.com/AmanJain2401/AcousticInsight-Audio-Genre-Classification
 cd audio-classification-project
 ```
 - Create Virtual Environment  
